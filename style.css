@@ -1,0 +1,276 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: uppercase;
+
+
+}
+
+.container {
+    padding-top: 70px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+header ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+}
+
+.primary-btn {
+
+    background: #6773dd;
+    line-height: 42px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+    color: #fff;
+    display: inline-block;
+    font-weight: 500;
+    position: relative;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    position: relative;
+}
+
+.home-name {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 18px;
+}
+
+.home-name p {
+    text-transform: none;
+}
+
+.home-name h1 {
+    font-size: 55px;
+    font-weight: bolder;
+    color: rgb(76, 204, 71);
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.main_title {
+    margin-bottom: 80px;
+}
+
+#serweb1,
+#serweb2,
+#serweb3 {
+    padding: 50px 30px;
+    text-align: center;
+    background-size: cover;
+    background: #f8faff;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 14px;
+    line-height: 27px;
+    font-weight: 300;
+    font-family: "Roboto", sans-serif;
+    color: #797979;
+}
+
+#services p {
+    text-transform: none;
+}
+
+
+.btn-read:hover,
+#serweb1:hover,
+#serweb2:hover,
+#serweb3:hover {
+    background: rgb(61, 61, 223);
+    color: white;
+}
+
+.service-header h2,
+span {
+    font-weight: bolder;
+
+}
+.primary_btn2 {
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: uppercase;
+    display: inline-block;
+    position: relative;
+    color: #05364d;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn-read {
+    border: none;
+}
+
+
+.layout_padding {
+    padding: 75px 0;
+}
+
+.footer-area {
+    background-color: #04091e;
+    color: #fff;
+    background-size: cover;
+}
+
+.section-gap {
+    padding: 120px 0;
+}
+
+script {
+    display: none;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.layout_padding {
+    padding: 75px 0;
+}
+
+.client_container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.layout_padding2 {
+    padding: 45px 0;
+}
+
+.client_container .client_text {
+    padding: 30px;
+    border: 1px solid #bcbcbc;
+    border-radius: 5px;
+}
+
+.client_container .detail-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.client_container .detail-box .img-box {
+    width: 75px;
+    margin-right: 15px;
+    border: 10px solid #9852f2;
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+.client_container .detail-box .img-box img {
+    width: 100%;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.client-about-header {
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.client-about {
+    background-color: #f9f9ff;
+
+}
+
+.contact-us {
+    font-family: "Poppins", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.contact-title {
+    font-size: 27px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.form-contact .form-group {
+    margin-bottom: 30px;
+}
+
+form-contact .form-control {
+    border: 1px solid #e5e6e9;
+    border-radius: 0px;
+    height: 48px;
+    padding-left: 18px;
+    font-size: 13px;
+    background: transparent;
+}
+
+.form-contact label {
+    font-size: 14px;
+}
+
+.contact-info {
+    margin-bottom: 25px;
+}
+
+.contact-info__icon {
+    margin-right: 20px;
+}
+
+.contact-info__icon i,
+.contact-info__icon span {
+    color: #8f9195;
+    font-size: 27px;
+}
+
+.contact-info .media-body h3 {
+    font-size: 16px;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: #2a2a2a;
+}
+
+.contact-info .media-body p {
+    color: #8a8a8a;
+}
+
+.contact-info__icon {
+    margin-right: 20px;
+}
+
+.contact-info__icon {
+
+    color: #797979;
+}
+
+.mail-icon h3 {
+    text-transform: lowercase;
+}
